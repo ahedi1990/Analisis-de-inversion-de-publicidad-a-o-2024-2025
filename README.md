@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/a99fdf14-bbc5-42de-a395-43fccefa22fb)# nuevo_repositorio
  
 📊 Análisis de Campañas 2023-2024
 📌 Descripción
