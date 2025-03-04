@@ -21,7 +21,7 @@ Las campañas de marketing generan una gran cantidad de datos que deben ser anal
 - Readme: descripción del proyecto
        <p>
 📑 Estructura del Dataset
-       <p>
+   <p>
 
 El conjunto de datos incluye las siguientes columnas:
 Columna	Descripción	Tipo de dato
@@ -36,6 +36,7 @@ ROI	Retorno de la inversión	Float
 ![image](https://github.com/user-attachments/assets/dc80c569-4691-47dd-8f6c-caacbd2f8061)
 
    <p>
+    
 🛠 Instalaciones y Requisitos
           <p>
 - Microsoft Excel 
